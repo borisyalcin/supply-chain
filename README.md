@@ -1,5 +1,9 @@
-# Project Explanation: Supply Chain Dashboard using Power BI
+# Supply Chain Dashboard using Power BI
 ## Project Overview
+
+##### Please visit the GitHub rep to download and test the dashboard itself.
+<a href="https://github.com/borisyalcin/supply_chain_dashboard/tree/main"> Supply Chain GitHub Rep </a>
+
 The project involved creating a comprehensive supply chain dashboard using Power BI, leveraging sales data to provide insightful visualizations and analytics. The objective was to enhance decision-making processes by offering a clear and detailed view of the supply chain's performance, identifying key trends, and highlighting areas for improvement.
 
 ## Objectives
