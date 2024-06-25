@@ -11,6 +11,8 @@ The project involved creating a comprehensive supply chain dashboard using Power
 ## Key Components of the Dashboard
 ### Sales Overview
 
+![image](https://github.com/borisyalcin/supply-chain/assets/155834534/0f4bb1cf-e784-4f67-b85d-c44722c53222)
+
 * Total sales by region, product, and time period.
 * Monthly and yearly sales trends.
 * Top-performing products and regions.
