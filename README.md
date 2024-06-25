@@ -23,15 +23,21 @@ The project involved creating a comprehensive supply chain dashboard using Power
 * Inventory aging analysis.
 ### Supplier Performance
 
+![image](https://github.com/borisyalcin/supply-chain/assets/155834534/a196b919-c6df-49f4-ad57-486b5ebe41a9)
+
 * Supplier delivery performance metrics.
 * Lead times and adherence to delivery schedules.
 * Quality assessment based on defect rates.
 ### Logistics and Distribution
 
+![image](https://github.com/borisyalcin/supply-chain/assets/155834534/d97e1180-0827-4ecd-b365-1b7257d83d66)
+
 * Transportation costs and efficiency.
 * Delivery timelines and adherence.
 * Distribution center performance metrics.
 ### Customer Satisfaction
+
+![image](https://github.com/borisyalcin/supply-chain/assets/155834534/106af838-33e3-4c90-b329-85c7fd3646b7)
 
 * Order fulfillment rates.
 * Customer feedback and returns analysis.
