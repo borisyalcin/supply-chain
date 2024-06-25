@@ -2,23 +2,24 @@
 ## Project Overview
 The project involved creating a comprehensive supply chain dashboard using Power BI, leveraging sales data to provide insightful visualizations and analytics. The objective was to enhance decision-making processes by offering a clear and detailed view of the supply chain's performance, identifying key trends, and highlighting areas for improvement.
 
-Objectives
-Data Integration: Consolidate sales data from various sources into Power BI.
-Visualization: Develop interactive visualizations to depict supply chain metrics.
-Performance Monitoring: Track and monitor supply chain performance indicators.
-Insights Generation: Identify trends, patterns, and anomalies in the supply chain.
-Key Components of the Dashboard
-Sales Overview
+## Objectives
+* Data Integration: Consolidate sales data from various sources into Power BI.
+* Visualization: Develop interactive visualizations to depict supply chain metrics.
+* Performance Monitoring: Track and monitor supply chain performance indicators.
+* Insights Generation: Identify trends, patterns, and anomalies in the supply chain.
 
-Total sales by region, product, and time period.
-Monthly and yearly sales trends.
-Top-performing products and regions.
-Inventory Management
+## Key Components of the Dashboard
+### Sales Overview
 
-Current inventory levels by product and location.
-Stock turnover rates.
-Inventory aging analysis.
-Supplier Performance
+* Total sales by region, product, and time period.
+* Monthly and yearly sales trends.
+* Top-performing products and regions.
+### Inventory Management
+
+* Current inventory levels by product and location.
+* Stock turnover rates.
+* Inventory aging analysis.
+### Supplier Performance
 
 Supplier delivery performance metrics.
 Lead times and adherence to delivery schedules.
